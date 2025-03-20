@@ -1,2 +1,2 @@
 # Mumbai
-A website that shows how lifw in mumbai is!!
+A website that shows how life in mumbai is!!
